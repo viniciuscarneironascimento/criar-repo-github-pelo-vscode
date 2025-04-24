@@ -13,3 +13,5 @@ Clique em "publish branch"
 Escolha opção no topo da tela: public or private
 Um popup de alerta vai surgir informando: "Não é possível enviar referências para o controle remoto. Tente executar "Pull" primeiro para integrar suas alterações." 
 Abra o terminal bash e digite: git remote -v  para confirmar que o repositório foi criado com sucesso
+
+Ajuste para pull
