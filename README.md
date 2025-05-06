@@ -1,4 +1,4 @@
-# criar-repo-github-pelo-vscode
+# Projeto: criar-repo-github-pelo-vscode
 
 🔗 [Acesse o repositório no GitHub](https://github.com/viniciuscarneironascimento/criar-repo-github-pelo-vscode)
 
